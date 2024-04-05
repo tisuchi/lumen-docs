@@ -18,7 +18,7 @@
 
 Lumen is built with testing in mind. In fact, support for testing with PHPUnit is included out of the box, and a `phpunit.xml` file is already setup for your application. The framework also ships with convenient helper methods allowing you to expressively test your application's JSON responses.
 
-An `ExampleTest.php` file is provided in the `tests` directory. After installing a new Lumen application, simply run `phpunit` on the command line to run your tests.
+An `ExampleTest.php` file is provided in the `tests` directory. Simply run `phpunit` on the command line to run your tests.
 
 ### Test Environment
 
