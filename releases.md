@@ -17,6 +17,11 @@ Lumen follows Laravel's [Semantic Versioning](https://semver.org) and release sc
 <a name="releases"></a>
 ## Releases
 
+<a name="11.0.0"></a>
+### Lumen 1.0.0
+
+Lumen 11.0 upgrades the framework's underlying Laravel components to the `11.x` series.
+
 <a name="10.0.0"></a>
 ### Lumen 10.0.0
 
