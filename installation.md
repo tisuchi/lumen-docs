@@ -9,14 +9,12 @@
 <a name="installation"></a>
 ## Installation
 
-> **Note:** In the years since releasing Lumen, PHP has made a variety of wonderful performance improvements. For this reason, along with the availability of [Laravel Octane](https://laravel.com/docs/octane), we no longer recommend that you begin new projects with Lumen. Instead, we recommend always beginning new projects with [Laravel](https://laravel.com).
+> **Note:** In the years since releasing Lumen, PHP has made a variety of wonderful performance improvements. For this reason, along with the availability of [Laravel Octane](https://laravel.com/docs/octane), we no longer support beginning new projects with Lumen. Instead, we recommend always beginning new projects with [Laravel](https://laravel.com).
 
 <a name="server-requirements"></a>
 ### Server Requirements
 
-The Lumen framework has a few system requirements. Of course, all of these requirements are satisfied by the [Laravel Homestead](http://laravel.com/docs/homestead) virtual machine, so it's highly recommended that you use Homestead as your local Lumen development environment.
-
-However, if you are not using Homestead, you will need to make sure your server meets the following requirements:
+The Lumen framework has a few system requirements. You will need to make sure your server meets the following requirements:
 
 <div class="content-list" markdown="1">
 - PHP >= 8.0
@@ -24,15 +22,6 @@ However, if you are not using Homestead, you will need to make sure your server 
 - PDO PHP Extension
 - Mbstring PHP Extension
 </div>
-
-<a name="installing-lumen"></a>
-### Installing Lumen
-
-Lumen utilizes [Composer](http://getcomposer.org) to manage its dependencies. So, before using Lumen, make sure you have Composer installed on your machine.
-
-Install Lumen by issuing the Composer `create-project` command in your terminal:
-
-    composer create-project --prefer-dist laravel/lumen blog
 
 ### Serving Your Application
 
