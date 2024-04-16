@@ -2,7 +2,6 @@
 
 - [Installation](#installation)
     - [Server Requirements](#server-requirements)
-    - [Installing Lumen](#installing-lumen)
     - [Configuration](#configuration)
 - [Compatibility](#compatibility)
 
