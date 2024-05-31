@@ -113,7 +113,7 @@ Lumen 5.8 makes use of the newest implementation of the `vlucas/phpdotenv` libra
 		dirname(__DIR__)
 	))->bootstrap();
 
-Additionally, remove the `vlucas/phpdotenv` in your `composer.json` as it is now a dependency of Lumen.
+Additionally, remove the `vlucas/phpdotenv` dependency from your application's `composer.json` file as it is now a dependency of Lumen.
 
 <a name="upgrade-5.7.0"></a>
 ## Upgrading To 5.7.0 From 5.6
